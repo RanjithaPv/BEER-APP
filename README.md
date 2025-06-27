@@ -1,3 +1,3 @@
 streamlit url - https://ranjithapv.streamlit.app
 
-https://github.com/RanjithaPv/Bear-servngs
+Github repository - https://github.com/RanjithaPv/Bear-servngs
